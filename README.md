@@ -30,10 +30,9 @@ Com isso, gestores e analistas conseguem tomar decisões estratégicas mais ráp
 
 ![Detalhamento](/reports/exports/images/slide2.png)
 
-
 ## 🌐 Dashboard Online
 
-[![Acessar Dashboard Power BI](https://img.shields.io/badge/🔗%20Acessar%20Dashboard%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiOGQ1Y2FhYjYtMGQ3Yy00M2M1LThhYmEtNGJmNzdjZTk3MjI4IiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9&pageName=ReportSection48e0040a0e337e0e0b00)
+[![Acessar Dashboard Power BI](https://img.shields.io/badge/🔗%20Acessar%20Dashboard%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMDUwNzI2MmMtMjZlYS00NGE0LTlmZjYtNmY1NzBjNWY5MTdmIiwidCI6IjdlYmVmODBjLTEwMjctNDEyOS1iNDg0LWNjZjJiZDNmZDU4ZiJ9&pageName=ReportSection)
 
 ## 💡 Insights e Benefícios
 
